@@ -1,4 +1,5 @@
-![](Starter_Code/data science banner.jpg)
+
+
 # NLP-Analysis-12
 
 There's been a lot of hype in the news lately about cryptocurrency, so you want to take stock, so to speak, of the latest news headlines regarding Bitcoin and Ethereum to get a better feel for the current public sentiment around each coin.
