@@ -1,6 +1,6 @@
 # NLP-Analysis-12
 
-![](Starter_Code/data science banner.jpg)
+![](Starter_Code/data_science_banner.jpg)
 
 There's been a lot of hype in the news lately about cryptocurrency, so you want to take stock, so to speak, of the latest news headlines regarding Bitcoin and Ethereum to get a better feel for the current public sentiment around each coin.
 In this notebook, natural language processing is applied to understand the sentiment in the latest news articles featuring Bitcoin and Ethereum. Applied are fundamental NLP techniques to better understand the other factors involved with the coin prices such as common words and phrases and organizations and entities mentioned in the articles.
